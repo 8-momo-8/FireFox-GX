@@ -1,28 +1,18 @@
 # Opera-GX Theme for Firefox Css
-<ul><li>(ES) Tema para los amantes de la skin GX de Opera. Compatibilidad - Versión estable del navegador.</li>
 <li>(EN) A theme for Opera GX Skin Lovers. Complete compatibility with the stable version of the browser.</li></ul>
 
 ![SplashGX](https://user-images.githubusercontent.com/22057609/199371165-27762d90-1e2d-413b-a07b-87983b384c5e.png)
 
-# ¿Cómo instalar? - How to install?
+# ¿How to install?
 
-<ol><b>(ES) Pasos para configurar el tema:</b>
-
-   <li>Descarga el tema desde la sección <code>Releases</code> en el lado derecho de esta página.</code></li>
-   <li>Descomprime el archivo y copia la carpeta <code>chrome</code> y el archivo <code>user.js</code> dentro de la carpeta de perfil de tu usuario de firefox.</li>
-   <li>Instala y usa un <a href="https://github.com/Godiesc/opera-gx#temas---themes" >tema</a> compatible.</li>
-   <li>Reinicia el navegador.</li></ol>
-
-<ol><b>(EN) Steps to configure the theme:</b>
-   <li>Download the theme from the <code>Releases</code> section, in the right side of this page</code></li> 
-   <li>Unzip the file and copy the <code>chrome</code> folder and the <code>user.js</code> file into your Firefox profile directory. </li>
+<ol><b> Steps to configure the theme:</b>
+   <li>Download the theme with the big button: <code>Code</code> >> <code>Download.zip</code></li> 
+   <li>Copy the chrome folder and the user.js file into your Firefox profile directory. </li>
    <li>Install and use a compatible <a href="https://github.com/Godiesc/opera-gx#temas---themes" >theme</a>.</li>
    <li>Restart the browser. </li></ol>
    <ul>
-<li>(ES) Para encontrar el directorio de tu perfil ve a <a href="https://github.com/Godiesc/opera-gx#example-of-aboutsupport"> about:support</a> or about:profiles. </li>
-<li>(EN) To find out the location of your profile directory go to <a href="https://github.com/Godiesc/opera-gx#example-of-aboutsupport"> about:support</a> or about:profiles.</li></ul>
 
-⚠ 🛑 ‼ The latest code updated in the repository (code > download zip) would work well only on beta o nightly versions.
+<li> To find out the location of your profile directory go to <a href="https://github.com/Godiesc/opera-gx#example-of-aboutsupport"> about:support</a> or about:profiles.</li></ul>
 
 # Temas - Themes
 <ul><li>Temas Principales - Main Themes: <a href= "https://addons.mozilla.org/es/firefox/addon/beautiful-opera-gx-fucsia/">🔴Fuchsia</a> <a href= "https://addons.mozilla.org/es/firefox/addon/beautiful-opera-gx-blue/">🔵Blue</a> <a href= "https://addons.mozilla.org/es/firefox/addon/beautiful-gx-green/" >🟢Green</a> <a href= "https://addons.mozilla.org/es/firefox/addon/beautiful-red-blur/">🌈Custom</a> </li>
@@ -43,10 +33,9 @@
 <li><a href="https://github.com/Godiesc/opera-gx/tree/main/Extras/Main-Image"><b>Main-Image</b></a></a> - This configuration will simulate a image behind all the browser.</li>
 <li><a href="https://github.com/Godiesc/opera-gx/tree/main/Extras/Left-SideBar"><b>Left Side-Bar</b></a> - The bookmark-bar will display on the left of the window.</li>
 <li><a href="https://github.com/Godiesc/opera-gx/tree/main/Extras/TreeStyle-tabs"><b>Tree Style Tabs</b></a> - Compatibility to the extension that put the tabs vertically.</li>
-<li><a href="https://github.com/Godiesc/opera-gx/tree/main/Extras/Classic-Sound-icon"><b>Classic-Sound-icon</b></a> - The tabs with sound will show a rhythm image.</li>
 <li><a href="https://github.com/Godiesc/opera-gx/tree/main/Extras/Play-Pause"><b>Play/Pause icon button extension</b></a> - Enables the possibility to play or pause tabs with a click on the sound icon.</li></ul>
 
-# Personalizar - Customize
+# Customize
 <ul><b><i>Personalizaciones Varias - Various customizations</i></b>
 <li><p>The file --> <code>chrome</code> --> <code>components</code> --> <code>ogx_root-personal.css</code> contains very useful and easy to use variables, so it is easier to change:</p>
 <ul>
@@ -67,21 +56,54 @@
 
 ![Captura de pantalla 2022-06-05 155840](https://user-images.githubusercontent.com/22057609/172070426-0de79289-eaa3-4826-ac62-af6230cdf877.png)
 
-# Compatibilidad - Compatibility
+#  Compatibility
 
-<ul><li>Windows 7 (Not tested - No probado) ❌</li>
-<li>Linux - Manjaro KDE (Tested - Probado) ✔ - <a href="https://imgur.com/a/Byo3Mn7">Preview</a></li>
-<li>Windows 10 (Tested - Probado) ✔ - <a href="https://i.imgur.com/ckLxcZe.png">Preview</a></li>
-<li>Windows 11 (Tested - Probado) ✔ - <a href="https://user-images.githubusercontent.com/6202392/168166690-b9f232c7-ff0e-4107-95f0-2910f1c3c6fb.png" >Preview</a></li>
-<li>MacOS (Tested - Probado) ✔ - <a href="https://i.imgur.com/Y6V0dwr.png"> Preview</a> </br> Thanks to <a href= "https://github.com/FormalSnake"> FormalSnake</a> for helping to test the theme in this OS.</li>
-</ul>
-
-# Known Issues - Problemas Conocidos
-<ul>
-<li>When using a theme that use more that one image, the theme will display a bad background in the selected tab, for example the alpenglow theme from firefox.</li>
-<li>In themes with images, when moving a tab it will display a bad background.</li>
+<ul><li>Windows 7 (Not tested) ❌</li>
+<li>Linux - Manjaro KDE (Tested) ✔ - <a href="https://i.imgur.com/xv1NKYQ.png">Preview</a></li>
+<li>Windows 10 (Tested) ✔ - <a href="https://i.imgur.com/ckLxcZe.png">Preview</a></li>
+<li>Windows 11 (Tested) ✔ - <a href="https://user-images.githubusercontent.com/6202392/168166690-b9f232c7-ff0e-4107-95f0-2910f1c3c6fb.png" >Preview</a></li>
+<li>MacOS (Tested) ✔ - <a href="https://i.imgur.com/Y6V0dwr.png"> Preview</a> </br> ( ⚠ - Please delete the <code>ogx_menu.css</code> file) </br> Thanks to <a href= "https://github.com/FormalSnake"> FormalSnake</a> for helping to test the theme.</li>
 </ul>
 
 # Example of about:support
 
 ![120349392-b372f980-c2c3-11eb-904d-b088168fd849](https://user-images.githubusercontent.com/22057609/156908375-824f8679-56a5-4d09-a86f-353a7f61135e.png)
+
+
+# To add the full  profile "The firefox folder"
+
+<ul><b><i>Note this profile have more extentions and more </i></b></ul>
+
+<ul><b><i>you can enable haptic sound on click using "noice" extension "installed" </i></b></ul>
+
+![newtab](/assets/newtab.png)
+
+
+![SideWhatsApp](/assets/SideWhatsApp.png)
+
+
+![overview](/assets/overview.png)
+
+<ul><li>Go to  about:profiles  </li>
+   
+<li> Create a New Profile </a></li>
+
+![profile](/assets/profile.png)
+
+
+<li> choose name for the profile and choose the firefox folder </a></li>
+<li> Click finish  and set as default close the browser and open it again </a></li>
+
+
+
+<li> NOTE DO NOT DELETE THE FOLDER OF "firefox" so store it in safe place </a></li>
+</ul>
+
+
+<ul><b><i>Opera-gx linux </i></b></ul>
+
+run_directly:
+
+```bash
+firefox --profile /path/to/firefox-folder
+```
